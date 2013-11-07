@@ -5,7 +5,7 @@
   "description": "Font Variation Description for JavaScript",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha"
+    "test": "./node_modules/.bin/mocha -R spec"
   },
   "readmeFilename": "README.md",
   "repository": {
