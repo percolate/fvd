@@ -1,10 +1,8 @@
-# fvd
-
-[![Build Status](https://circleci.com/gh/percolate/fvd.png?circle-token=:circle-token)](https://circleci.com/gh/percolate/fvd.png?circle-token=:circle-token)
+# fvd [![Build Status](https://circleci.com/gh/percolate/fvd.png?circle-token=:circle-token)](https://circleci.com/gh/percolate/fvd.png?circle-token=:circle-token)
 
 ## Font Variation Description for JavaScript
 
-See [FVD](https://github.com/typekit/fvd) for details.
+See [Font Variation Description](https://github.com/typekit/fvd) for more details.
 
 ## Installation
 
