@@ -1,4 +1,6 @@
-# fvd [![Build Status](https://circleci.com/gh/percolate/fvd.png?circle-token=:circle-token)](https://circleci.com/gh/percolate/fvd.png?circle-token=:circle-token)
+# fvd
+
+![Status Badge](https://circleci.com/gh/percolate/fvd.png?circle-token=d8514e93933f9eedca564123124444aa69ff6a11)
 
 ## Font Variation Description for JavaScript
 
