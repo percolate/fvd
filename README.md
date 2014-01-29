@@ -36,3 +36,7 @@ Install the dependencies and run:
 ```
 $ npm test
 ```
+
+## License
+
+MIT License, see [LICENSE](https://github.com/percolate/fvd/blob/master/LICENSE.md) for details.
