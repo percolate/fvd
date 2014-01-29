@@ -16,6 +16,7 @@
   "bugs": {
     "url": "https://github.com/percolate/fvd/issues"
   },
+  "license": "MIT",
   "main": "./lib/index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha -R spec"
