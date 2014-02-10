@@ -1,6 +1,6 @@
 # fvd
 
-[![Build Status](https://circleci.com/gh/percolate/fvd.png?circle-token=d8514e93933f9eedca564123124444aa69ff6a11)](https://circleci.com/gh/percolate/fvd)
+![Build Status](https://circleci.com/gh/percolate/fvd.png?circle-token=d8514e93933f9eedca564123124444aa69ff6a11)
 
 ## Font Variation Description for JavaScript
 
@@ -36,3 +36,7 @@ Install the dependencies and run:
 ```
 $ npm test
 ```
+
+## License
+
+MIT License, see [LICENSE](https://github.com/percolate/fvd/blob/master/LICENSE.md) for details.
