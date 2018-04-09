@@ -1,9 +1,6 @@
 {
   "name": "fvd",
   "version": "1.0.0",
-  "engines": {
-    "node": "0.10.x"
-  },
   "description": "Font Variation Description for JavaScript",
   "keywords": [
     "fvd",
